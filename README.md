@@ -1,2 +1,3 @@
 # hello--world
-My FIRST
+My FIRST repository on GITHub！
+I love Cloud computer.
